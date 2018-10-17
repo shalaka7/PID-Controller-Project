@@ -8,7 +8,7 @@ The project involves ,
 
 ## Results / Reflection
 
-A video of the simulated car driving around the track can be found [here] (https://github.com/shalaka7/udacity_project_9/blob/master/PID_Controller_Video.mp4).
+A video of the simulated car driving around the track can be found [here](https://github.com/shalaka7/udacity_project_9/blob/master/PID_Controller_Video.mp4).
 
 ### Components of PID
 
